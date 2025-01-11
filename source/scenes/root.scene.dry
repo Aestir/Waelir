@@ -4,4 +4,17 @@ new-page: true
 L'aube  veinait le ciel de Kinshima de pourpre, d'émeraude et de mauve. Les murs de la Ligue s'élevaient jusqu'aux nuages, plantant ses tours dans les aurores boréales, pinceaux trempés dans une palette céleste.
 
 # Scenes with a top tag can be displayed here.
-- #top
+-@Pourpre: Est-ce du pourpre ?
+-@Rouge: Ou un simple rouge ?
+
+@rouge
+title: Root Scene
+sub-title : Je n'ai jamais été bon avec les couleurs...
+
+Salut, c'est poupre non ?
+
+@Pourpre
+title: Root Scene
+sub-title : ...encore moins avec les primaires
+
+Salut c'est rouge dans le ciel, non?
